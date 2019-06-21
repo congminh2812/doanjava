@@ -1,0 +1,6 @@
+localhost
+1433
+.\\SQLEXPRESS
+InteriorManagement
+sa
+sa
